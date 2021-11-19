@@ -1,10 +1,12 @@
-###Vorlesungsverzeichnis
+### Vorlesungsverzeichnis
+
 Neues Vorlesungsverzeichnis mit detaillierten Informationen über
 Kurse, Credits, Inhalte, Prüfungen und vieles mehr.
 
 ![](./ft_vorverz.jpg)
 
-###komplett neuer Dateibrowser
+### komplett neuer Dateibrowser
+
 Die Dateiverwaltung des Designwiki 2 wurde komplett neu geschrieben
 und hat eine Vielzahl neuer Funktionen, die die Verwaltung des
 umfangreichen Dateiarchivs erleichtern. Unter anderem eine
@@ -30,7 +32,7 @@ wenn man ausser dem Bildmotiv keine weiteren Angaben besitzt.
 ![](./ft_files_03.jpg)
 ![](./ft_files_04.jpg)
 
-###Mein Profil
+### Mein Profil
 Der Menüpunkt zur Einstellung der Nutzerdaten ist überarbeitet worden
 und heisst jetzt "Mein Profil." Hier lassen sich zahlreiche
 Einstellungen vornehmen, die sich mit dem Benutzerprofil befassen. Es
@@ -53,7 +55,7 @@ Das Nutzerfoto ist im internen Chat sichbar.
 ![](./ft_login_01.jpg)
 ![](./ft_login_02.jpg)
 
-###Seite bearbeiten
+### Seite bearbeiten
 Der Seiteneditor, mit dem die Wikiseiten erstellt, bearbeitet und
 verwaltet werden können, wurde Dank web 2.0 auf Hochglanz poliert. Er
 bietet weitaus mehr Funktionen, als noch im Designwiki 1, ist aber
@@ -91,7 +93,7 @@ die Seite da hin, wo man sie braucht. Volia.
 ![](./ft_bearb_rechte.jpg)
 ![](./ft_bearb_preview.jpg)
 
-###Tags
+### Tags
 Tags sind zur Zeit in aller Munde. User kategorisieren und beschreiben
 mit kurzen Stichworten einen Link, ein Video, ein Bild, eine Seite.
 Auch diese Funktion wurde mit großer technischer Rafinesse ins
@@ -109,7 +111,7 @@ Zeit am heissesten ist.
 ![](./ft_tags_01.jpg)
 ![](./ft_tags_02.jpg)
 
-###Suggesting
+### Suggesting
 Das Designwiki 2 hat jetzt nicht nur eine wikiweite Suche, nein, es
 hat eine Suche auf Speed! Die Suchbox generiert dynamisch Vorschläge
 für das eingegebene Suchwort (a la Google Suggest) und zeigt so,
@@ -125,7 +127,7 @@ lässt sich zur Referenz auch ausdrucken.
 
 ![](./ft_suggest.jpg)
 
-###RSS
+### RSS
 Der Feed des Designwiki 1
 war bereits ein grosser Erfolg. Selten war es einfacher, auf dem
 neusten Stand zu bleiben, was Hochschulinformationen anging. Es zeigte
@@ -138,7 +140,7 @@ Photocast (sogar in iPhoto6!)
 
 ![](./ft_rss.jpg)
 
-###User-Chat
+### User-Chat
 Private Nachrichten waren gestern. Hinterlass kurze Informationen oder
 nur ein einfaches Hallo auf der internen (und damit von aussen nicht
 einsehbaren) Chatseite des Designwiki 2. Wenn du dein Profilfoto schon
@@ -146,7 +148,7 @@ hochgeladen hast sogar mit Bild!
 
 ![](./ft_chat.jpg)
 
-###Inspirational Images
+### Inspirational Images
 Was die Tag-Wolke für Textinformationen auf der Wikiseite ist, sind
 die Titelbilder für die Projekte in der Projektdatenbank. Bei jedem
 Seitenaufruf erscheint ein neues, pixeliges Bildchen am oberen Rand
@@ -161,7 +163,7 @@ Heidenspaß.
 ![](./ft_topimage_01.jpg)
 ![](./ft_topimage_02.jpg)
 
-###Globale Benachrichtigungen
+### Globale Benachrichtigungen
 Das Designwiki hat ein Gedächtnis. Über eine zentrale Funktion lassen
 sich von den Administratoren oder Professoren Nachrichten direkt auf
 die Startseite eines jeden Designwiki Nutzers zaubern. Dabei kann es
@@ -174,7 +176,7 @@ herumschwirren hat. Wer braucht da noch ein eigenes Gehirn?
 
 ![](./ft_notify.jpg)
 
-###Seitenmenü
+### Seitenmenü
 Ja, alle Wikifunktionen sind jetzt oben. Das ist zwar ein großer
 Schritt, aber bei den vielen langen Inhalten, die bisher im Designwiki
 1 entstanden sind, war es langsam mühsam, immer bis zum Seitenende zu
@@ -187,7 +189,7 @@ gelernt. Klicken, auswählen, Seite laden lassen. Mehr nicht.
 
 ---
 
-###verbesserte features:
+### verbesserte features:
 - vorlesungsverzeichnis neu
 - dateibrowser (3 ansichten: text, text+icons, icons)
 - mein account (bild, semester, metadaten)
@@ -198,7 +200,7 @@ gelernt. Klicken, auswählen, Seite laden lassen. Mehr nicht.
 - verbesserte sortierfunktion
 - versionen vergleichen verbesserte darstellung
 
-###neue features:
+### neue features:
 - volltextsuche! (+sitemap)
 - suggest bei suche, tags, etc.
 - dateisuche
