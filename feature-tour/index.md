@@ -122,8 +122,7 @@ Zeit am heissesten ist.
 **Suggesting**
 Das Designwiki 2 hat jetzt nicht nur eine wikiweite Suche, nein, es
 hat eine Suche auf Speed! Die Suchbox generiert dynamisch Vorschläge
-für das eingegebene Suchwort (a la
-[l=http://labs.google.com/suggest]Google Suggest[/l]) und zeigt so,
+für das eingegebene Suchwort (a la Google Suggest) und zeigt so,
 nach welchen Begriffen bereits gesucht (und gefunden) wurde. Die
 Suchtreffer werden übersichtlich angeordnet und vereinfachen das
 Auffinden von Informationen enorm.
@@ -139,7 +138,7 @@ lässt sich zur Referenz auch ausdrucken.
 ---
 
 **RSS**
-Der [l=http://de.wikipedia.org/wiki/RSS]RSS[/l] Feed des Designwiki 1
+Der Feed des Designwiki 1
 war bereits ein grosser Erfolg. Selten war es einfacher, auf dem
 neusten Stand zu bleiben, was Hochschulinformationen anging. Es zeigte
 sich dass häufig 2-4 Seiten täglich erstellt, oder verändert wurden.
@@ -209,35 +208,32 @@ gelernt. Klicken, auswählen, Seite laden lassen. Mehr nicht.
 ---
 
 **verbesserte features:**
--vorlesungsverzeichnis neu
--dateibrowser (3 ansichten: text, text+icons, icons)
--mein account (bild, semester, metadaten)
--gruppenmanagement (vereinfachte rechte)
--vorlesungsverzeichnis (faechersuche, layout)
--statistik (admin only)
--seiteneditor (instant-format, buttonbeschreibungen,
-faecher+projektelinks, instant-preview, flasheinbettung, editor
-vergroessern/-kleinern, verbesserte settings, verbesserte rechte,
-direkte tag-vergabe, automatische sortierung!)
--verbesserte sortierfunktion
--versionen vergleichen verbesserte darstellung
+- vorlesungsverzeichnis neu
+- dateibrowser (3 ansichten: text, text+icons, icons)
+- mein account (bild, semester, metadaten)
+- gruppenmanagement (vereinfachte rechte)
+- vorlesungsverzeichnis (faechersuche, layout)
+- statistik (admin only)
+- seiteneditor (instant-format, buttonbeschreibungen, faecher+projektelinks, instant-preview, flasheinbettung, editor vergroessern/-kleinern, verbesserte settings, verbesserte rechte, direkte tag-vergabe, automatische sortierung!)
+- verbesserte sortierfunktion
+- versionen vergleichen verbesserte darstellung
 
 **neue features:**
--volltextsuche! (+sitemap)
--suggest bei suche, tags, etc.
--dateisuche
--benutzer: link zu "meine seite"
--projektdatenbank! (editor, templates/teaser)
--tags! (verwaltung, cloud)
--inspirational images (vgl. tag cloud, nur mit bildern)
--photocast
--RSS fuer jede seite
--einloggen mit matrikelnummer
--user wird auf waisen hingewiesen
--user wird auf fehlende mat.nummer hingewiesen
--user wird auf fehlendes foto hingewiesen
--globale notify funktion (?)
--user chat ersetzt private nachrichten
+- volltextsuche! (+sitemap)
+- suggest bei suche, tags, etc.
+- dateisuche
+- benutzer: link zu "meine seite"
+- projektdatenbank! (editor, templates/teaser)
+- tags! (verwaltung, cloud)
+- inspirational images (vgl. tag cloud, nur mit bildern)
+- photocast
+- RSS fuer jede seite
+- einloggen mit matrikelnummer
+- user wird auf waisen hingewiesen
+- user wird auf fehlende mat.nummer hingewiesen
+- user wird auf fehlendes foto hingewiesen
+- globale notify funktion (?)
+- user chat ersetzt private nachrichten
 
 ![](./ft_sitemap.jpg)
 ![](./ft_oldver_01.jpg)
