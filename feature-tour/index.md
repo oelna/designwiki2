@@ -110,7 +110,7 @@ sich über eine einfache Textbox neue Tags hinzufügen. Dabei werden
 dynamisch Vorschläge zu Tagworten gezeigt, die bereits einmal vergeben
 wurden.
 Die Wikiweite Suche wird jetzt unterstützt von einer
-[l=http://de.wikipedia.org/wiki/Wortwolke]Tag-Wolke[/l]. Hier finden
+[Tag-Wolke](http://de.wikipedia.org/wiki/Wortwolke). Hier finden
 sich die am häuftigsten vergebenen Tags und zeigen, welcher Inhalt zur
 Zeit am heissesten ist.
 
