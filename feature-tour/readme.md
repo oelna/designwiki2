@@ -53,7 +53,6 @@ Kontaktdaten ins Adressbuch importieren lässt (resp. Outlook auf dem
 PC.)
 Das Nutzerfoto ist im internen Chat sichbar.
 
-![](./ft_profil.jpg)
 ![](./ft_login_01.jpg)
 ![](./ft_login_02.jpg)
 
